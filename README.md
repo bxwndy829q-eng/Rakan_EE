@@ -1,7 +1,7 @@
 # Hi, I'm Rakan 👋
 Electrical Engineering student at UAEU, building career in **Power Systems & Renewable Energy**. I use this profile to document what I learn through university coursework, laboratory work, simulations, and personal projects.
 
-My goal is a connection between engineering theory and practical power engineering applications. 💪
+My goal is to build a connection between engineering theory and practical power engineering applications. 💪
 
 # 🔌Areas I'm Exploring
 - Electrical power systems and power systems analysis
